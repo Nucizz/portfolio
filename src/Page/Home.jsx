@@ -161,7 +161,7 @@ const Slide3 = forwardRef((props, ref) => {
 
             <div className="grid lg:grid-cols-3 md:grid-cols-2 place-items-center gap-5">
 
-                <ProjectList title="SpeakGestures" thumbnail={speakgestures} url={"/speakgestures"}
+                <ProjectList title="SpeakGestures" thumbnail={speakgestures} url={"https://github.com/Nucizz/speakgestures/"}
                 description={"AI powered sign language (BISINDO) to text or TTS translator."}
                 Framework={ () => { 
                         return (
