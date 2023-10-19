@@ -6,7 +6,9 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-d
 export default function App() {
   return (
     <div className="overflow-hidden">
-      <Routing />
+      {/* <Routing /> */}
+
+      <Home />
 
     </div>
   );

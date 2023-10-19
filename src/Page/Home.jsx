@@ -137,7 +137,7 @@ const Slide2 = forwardRef((props, ref) => {
 
                     <ContactList thumbnail={instagram} url={"https://www.instagram.com/calvin_anacia/"} />
                     <ContactList thumbnail={github} url={"https://github.com/Nucizz/"} />
-                    <ContactList thumbnail={linkedin} url={"https://www.linkedin.com/in/calvin-anacia-390b7421a/"} overrideBackground={"#047cbc"} />
+                    <ContactList thumbnail={linkedin} url={"https://www.linkedin.com/in/calvin-anacia/"} overrideBackground={"#047cbc"} />
                     <ContactList thumbnail={spotify} url={"https://open.spotify.com/user/n3si4bvrnkhzgp7wba8d8hazh?si=a2944adcc4c14fb0"} />
                     <ContactList thumbnail={email} url={"mailto:calvinanacia123@gmail.com"} />
 
